@@ -7,7 +7,7 @@ const HeroBanner = () => {
       <div className="absolute top-0 left-0 w-full h-full md:h-[32rem] lg:h-[36rem] xl:h-[40rem] overflow-hidden rounded-xl">
        
           <img
-            src="../public/banner.jpg.jpg" 
+            src="https://morecustomersapp.com/wp-content/uploads/2020/08/banners-keep-site-fresh.jpg" 
             alt="Image 2"
             className="w-full h-full object-cover"
           />
